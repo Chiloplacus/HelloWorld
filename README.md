@@ -1,2 +1,2 @@
 # HelloWorld
-Repository for Week 2 660
+Repository for Week 2 SWDV 660
